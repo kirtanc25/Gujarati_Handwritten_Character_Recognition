@@ -17,4 +17,11 @@ We have found that some people find difficulty in reading gujarati handwritten d
 5. Integrate model with mobile application
 
 # Scope:
+This mobile application can be used by anyone to recognize handwritten gujarati text and
+convert it to a readable format. The mobile application might recognize text with an accuracy
+up to 90%. The mobile application depends on the scanning quality of camera, if quality is
+good then it can able to recognize the text easily and with greater accuracy.
+
+# Further uses:
+The character recognization technique is further use in word recognization. Word recognization is difficult task in Gujarati Handwritten Words, but first word segmentation and after recognization of one-one character might be useful.
 This mobile application can be used by anyone to recognize handwritten gujarati text and convert it to a readable format. The mobile application might recognize text with an accuracy up to 90%. The mobile application depends on the scanning quality of camera, if quality is good then it can able to recognize the text easily and with greater accuracy.
