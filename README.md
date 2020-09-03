@@ -1,5 +1,5 @@
 # Guj_Hand_Char_Recognition
-Gujarati Handwritten Character Recognition project having a good accuracy to predict the given character.
+Gujarati Handwritten Character Recognition project having a good accuracy to predict the given character.<br/>
 For detailed information, check: https://youtu.be/uxZnQrkTGak
 
 # Project Summary:
