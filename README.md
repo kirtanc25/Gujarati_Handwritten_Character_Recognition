@@ -23,5 +23,5 @@ up to 90%. The mobile application depends on the scanning quality of camera, if 
 good then it can able to recognize the text easily and with greater accuracy.
 
 # Further uses:
-The character recognization technique is further use in word recognization. Word recognization is difficult task in Gujarati Handwritten Words, but first word segmentation and after recognization of one-one character might be useful.
+The character recognition technique is further used in word recognization. Word recognization is difficult task in Gujarati Handwritten Words, but first word segmentation is done and after that recognition of one-one character might be possible to achieve whole word recognition.<br/>
 This mobile application can be used by anyone to recognize handwritten gujarati text and convert it to a readable format. The mobile application might recognize text with an accuracy up to 90%. The mobile application depends on the scanning quality of camera, if quality is good then it can able to recognize the text easily and with greater accuracy.
